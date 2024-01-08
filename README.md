@@ -15,3 +15,6 @@ se soluciona colocando el comando
 ```
 ssh-keygen -R 192.168.1.77
 ```
+
+
+# [VHDL](https://github.com/ErickLopC/VHDL_/tree/main)
