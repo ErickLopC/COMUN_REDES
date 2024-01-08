@@ -1,7 +1,7 @@
 # COMUN_REDES
 
+## [RED-LOCAL- TP-LINK](https://github.com/ErickLopC/RED-LOCAL-tp-link-)
 
-https://github.com/ErickLopC/RED-LOCAL-tp-link-
 
 Aqui muestra como se configura una red local mediante un router 
 
@@ -17,4 +17,4 @@ ssh-keygen -R 192.168.1.77
 ```
 
 
-# [RASBY-SERVIDOR](https://github.com/ErickLopC/SERVIDOR_RASBY)
+## [RASBY-SERVIDOR](https://github.com/ErickLopC/SERVIDOR_RASBY)
